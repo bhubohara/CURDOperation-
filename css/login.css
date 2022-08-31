@@ -1,0 +1,84 @@
+
+.container{
+	
+	background-color: silver ;
+	background-repeat: no-repeat;
+
+	background-size: 100%;
+
+
+}
+
+div.loginHeader{
+	text-align: center;
+	
+}
+
+div.loginHeader{
+	margin-bottom: 30px;
+
+}
+div.loginHeader h2{
+	color: #233b91;
+	font-size: 50px;
+	padding: 0px;
+	margin: 0px;
+	
+
+}
+div.loginHeader p{
+	color: darkblue;
+	font-size: 20px;
+	padding: 0px;
+	margin: 0px;
+	font-family: ;
+	border-bottom: 5px solid;
+	border-color: green;
+	border-width: 50%; 
+
+
+
+}
+ div.loginbody form{
+	margin: 0 auto;
+	width: 300px;
+	background: rgba(0,0,0,.5);
+	padding: 50px;
+	border: 4px solid #fff;
+	border-radius: 5px;
+
+
+
+}
+div.loginInputContainer label{
+	margin-top: 15px;
+}
+div.loginInputContainer label{
+	display: block;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: bold;
+	color: #fff;
+
+}
+div.loginInputContainer input {
+
+	font-style: italic;
+	width: 100%;
+	padding: 5px;
+
+}
+
+div.LoginButtonContainer{
+	margin-top: 20px;
+}
+div.LoginButtonContainer button{
+	font-size: 18px;
+	padding: 5px 12px;
+	text-transform: uppercase;
+	display: inline-block;
+}
+
+div.error {
+	color: #fff;
+}
